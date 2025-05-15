@@ -1,0 +1,1084 @@
+<?xml version="1.0" encoding="utf-8"?>
+<report-database>
+ <description>XOR /openlane/designs/ZeroToFiveCounter/runs/RUN_2025.05.15_13.40.42/results/signoff/ZeroToFiveCounter.gds vs. /openlane/designs/ZeroToFiveCounter/runs/RUN_2025.05.15_13.40.42/results/signoff/ZeroToFiveCounter.klayout.gds</description>
+ <original-file/>
+ <generator>drc: script='/openlane/scripts/klayout/xor.drc'</generator>
+ <top-cell>ZeroToFiveCounter</top-cell>
+ <tags>
+ </tags>
+ <categories>
+  <category>
+   <name>122/16</name>
+   <description>XOR data for layer 122/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>235/4</name>
+   <description>XOR data for layer 235/4</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>236/0</name>
+   <description>XOR data for layer 236/0</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>64/16</name>
+   <description>XOR data for layer 64/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>64/20</name>
+   <description>XOR data for layer 64/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>64/5</name>
+   <description>XOR data for layer 64/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>64/59</name>
+   <description>XOR data for layer 64/59</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>65/20</name>
+   <description>XOR data for layer 65/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>65/44</name>
+   <description>XOR data for layer 65/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>66/15</name>
+   <description>XOR data for layer 66/15</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>66/20</name>
+   <description>XOR data for layer 66/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>66/44</name>
+   <description>XOR data for layer 66/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>67/16</name>
+   <description>XOR data for layer 67/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>67/20</name>
+   <description>XOR data for layer 67/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>67/44</name>
+   <description>XOR data for layer 67/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>67/5</name>
+   <description>XOR data for layer 67/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>68/16</name>
+   <description>XOR data for layer 68/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>68/20</name>
+   <description>XOR data for layer 68/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>68/44</name>
+   <description>XOR data for layer 68/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>68/5</name>
+   <description>XOR data for layer 68/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>69/20</name>
+   <description>XOR data for layer 69/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>69/44</name>
+   <description>XOR data for layer 69/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>69/5</name>
+   <description>XOR data for layer 69/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>70/16</name>
+   <description>XOR data for layer 70/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>70/20</name>
+   <description>XOR data for layer 70/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>70/44</name>
+   <description>XOR data for layer 70/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>70/5</name>
+   <description>XOR data for layer 70/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>71/16</name>
+   <description>XOR data for layer 71/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>71/20</name>
+   <description>XOR data for layer 71/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>71/44</name>
+   <description>XOR data for layer 71/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>71/5</name>
+   <description>XOR data for layer 71/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>72/16</name>
+   <description>XOR data for layer 72/16</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>72/20</name>
+   <description>XOR data for layer 72/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>72/5</name>
+   <description>XOR data for layer 72/5</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>78/44</name>
+   <description>XOR data for layer 78/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>81/23</name>
+   <description>XOR data for layer 81/23</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>81/4</name>
+   <description>XOR data for layer 81/4</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>83/44</name>
+   <description>XOR data for layer 83/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>93/44</name>
+   <description>XOR data for layer 93/44</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>94/20</name>
+   <description>XOR data for layer 94/20</description>
+   <categories>
+   </categories>
+  </category>
+  <category>
+   <name>95/20</name>
+   <description>XOR data for layer 95/20</description>
+   <categories>
+   </categories>
+  </category>
+ </categories>
+ <cells>
+  <cell>
+   <name>ZeroToFiveCounter</name>
+   <variant/>
+   <layout-name/>
+   <references>
+   </references>
+  </cell>
+ </cells>
+ <items>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_001_',r0 79.81,69.955)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_006_',r0 10.81,76.755)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_009_',r0 54.51,80.155)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_010_',r0 49.45,37.74)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_013_',r0 63.25,41.82)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_016_',r0 13.11,53.04)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_017_',r0 25.53,47.6)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_018_',r0 39.33,40.375)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_019_',r0 81.19,63.325)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_025_',r0 86.71,72.165)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_028_',r0 8.97,17.68)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_030_',r0 90.39,48.875)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_033_',r0 25.99,67.66)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_035_',r0 76.13,78.2)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_037_',r0 90.85,17.425)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_040_',r0 73.37,84.15)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_044_',r0 87.17,21.675)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_045_',r0 60.03,71.23)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_050_',r0 36.11,54.57)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_056_',r0 66.93,80.07)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_059_',r0 80.73,28.305)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_060_',r0 51.29,53.635)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_064_',r0 15.87,30.175)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_070_',r0 31.97,20.91)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_072_',r0 50.83,32.3)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_074_',r0 49.91,23.97)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_078_',r0 40.71,41.14)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_081_',r0 36.585,45.73)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_083_',r0 75.21,28.05)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_084_',r0 52.67,38.42)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_087_',r0 71.07,59.16)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_088_',r0 70.15,79.73)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_089_',r0 69.69,70.465)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_093_',r0 86.71,23.97)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_103_',r0 65.55,30.09)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_104_',r0 48.07,77.52)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_105_',r0 53.13,26.01)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_108_',r0 84.87,32.975)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_110_',r0 62.33,15.725)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_119_',r0 64.17,67.32)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_120_',r0 89.47,18.785)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_121_',r0 23.69,68.935)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_123_',r0 83.49,70.72)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_124_',r0 19.55,72.25)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_125_',r0 63.25,78.71)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_130_',r0 22.31,58.82)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_131_',r0 47.61,54.74)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_132_',r0 53.13,81.26)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_140_',r0 68.77,39.355)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_143_',r0 68.54,38.59)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_144_',r0 63.71,68.255)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_146_',r0 43.47,65.28)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_151_',r0 85.33,54.4)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_157_',r0 11.73,62.56)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('_160_',r0 65.09,37.23)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('clknet_2_0__leaf_clk',r0 40.25,21.93)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('clknet_2_3__leaf_clk',r0 66.47,82.62)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net1',r0 13.11,67.745)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net10',r0 92.69,86.955)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net16',r0 92.69,54.995)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net6',r0 91.31,23.205)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('net9',r0 92.69,49.725)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('one_second_counter\\[11\\]',r0 81.88,63.58)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('one_second_counter\\[14\\]',r0 89.93,69.955)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('one_second_counter\\[21\\]',r0 75.44,66.3)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('one_second_counter\\[22\\]',r0 22.31,51.68)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('one_second_counter\\[24\\]',r0 34.27,38.25)</value>
+   </values>
+  </item>
+  <item>
+   <tags/>
+   <category>'69/5'</category>
+   <cell>ZeroToFiveCounter</cell>
+   <visited>false</visited>
+   <multiplicity>1</multiplicity>
+   <comment/>
+   <image/>
+   <values>
+    <value>label: ('one_second_counter\\[4\\]',r0 23.69,36.72)</value>
+   </values>
+  </item>
+ </items>
+</report-database>
