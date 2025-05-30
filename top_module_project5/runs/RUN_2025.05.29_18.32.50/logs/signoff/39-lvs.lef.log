@@ -1,0 +1,1884 @@
+Netgen 1.5.270 compiled on Sun Jun  2 19:00:27 UTC 2024
+Warning: netgen command 'format' use fully-qualified name '::netgen::format'
+Warning: netgen command 'global' use fully-qualified name '::netgen::global'
+Generating JSON file result
+Reading netlist file /openlane/designs/top_module_project5/runs/RUN_2025.05.29_18.32.50/results/signoff/top_module_project5.spice
+Reading netlist file /openlane/designs/top_module_project5/runs/RUN_2025.05.29_18.32.50/tmp/signoff/36-top_module_project5.pnl.v
+Warning:  A case-insensitive file has been read and so the	verilog file must be treated case-insensitive to match.
+Creating placeholder cell definition for module sky130_fd_sc_hd__diode_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__decap_3.
+Creating placeholder cell definition for module sky130_ef_sc_hd__decap_12.
+Creating placeholder cell definition for module sky130_fd_sc_hd__decap_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__fill_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__fill_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__decap_6.
+Creating placeholder cell definition for module sky130_fd_sc_hd__decap_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__tapvpwrvgnd_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or4bb_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_12.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and2b_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkbuf_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xor2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and3_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21oi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a31o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ai_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor2_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21boi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and4_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__inv_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and3_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand3_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o211a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xnor2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__mux2_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__mux2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__mux2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__dlymetal6s2s_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__mux2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_6.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkbuf_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkbuf_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkbuf_16.
+Creating placeholder cell definition for module sky130_fd_sc_hd__buf_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkbuf_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ai_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__inv_6.
+Creating placeholder cell definition for module sky130_fd_sc_hd__inv_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor2b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xor2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__inv_16.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkinv_16.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and3b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a221o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o31a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkinv_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or2b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o22ai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or2_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a221o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xnor2_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xor2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o22a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a31oi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__xnor2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21oi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or2_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21oi_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or3_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__and2b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21bo_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a2bb2o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a32o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o31ai_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor4_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o31ai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or3b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ba_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a211oi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ba_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3b_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21ba_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__inv_8.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o2bb2a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a211o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21a_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a32o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o32ai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a22o_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o22a_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o221a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a22o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a311oi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o2bb2a_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__or3_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a221o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a21boi_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o311a_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o21bai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a31o_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nand3_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__nor3b_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o211ai_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a2bb2o_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__o211ai_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__a22oi_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__dfxtp_4.
+Creating placeholder cell definition for module sky130_fd_sc_hd__dfxtp_1.
+Creating placeholder cell definition for module sky130_fd_sc_hd__dfxtp_2.
+Creating placeholder cell definition for module sky130_fd_sc_hd__dfrtp_4.
+Note:  Implicit pin X in instance clkload0 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkinvlp_4.
+Note:  Implicit pin X in instance clkload10 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload11 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload12 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload13 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload14 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Creating placeholder cell definition for module sky130_fd_sc_hd__clkinv_1.
+Note:  Implicit pin X in instance clkload18 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload19 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload20 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload21 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload22 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload23 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload24 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload25 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload26 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload27 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload28 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload29 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Creating placeholder cell definition for module sky130_fd_sc_hd__bufinv_8.
+Note:  Implicit pin X in instance clkload30 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload31 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload32 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload33 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload4 of sky130_fd_sc_hd__clkbuf_8 in cell top_module_project5
+Creating placeholder cell definition for module sky130_fd_sc_hd__bufinv_16.
+Note:  Implicit pin X in instance clkload8 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+Note:  Implicit pin X in instance clkload9 of sky130_fd_sc_hd__clkbuf_4 in cell top_module_project5
+
+Reading setup file /home/pinarizmir/.volare/sky130A/libs.tech/netgen/sky130A_setup.tcl
+
+Comparison output logged to file /openlane/designs/top_module_project5/runs/RUN_2025.05.29_18.32.50/logs/signoff/39-top_module_project5.lef.lvs.log
+Logging to file "/openlane/designs/top_module_project5/runs/RUN_2025.05.29_18.32.50/logs/signoff/39-top_module_project5.lef.lvs.log" enabled
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__fill_2'
+Circuit sky130_fd_sc_hd__fill_2 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__fill_2'
+Circuit sky130_fd_sc_hd__fill_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__fill_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__diode_2'
+Circuit sky130_fd_sc_hd__diode_2 contains 0 device instances.
+Circuit contains 0 nets, and 5 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__diode_2'
+Circuit sky130_fd_sc_hd__diode_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__diode_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_ef_sc_hd__decap_12'
+Circuit sky130_ef_sc_hd__decap_12 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_ef_sc_hd__decap_12'
+Circuit sky130_ef_sc_hd__decap_12 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_ef_sc_hd__decap_12 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__decap_6'
+Circuit sky130_fd_sc_hd__decap_6 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__decap_6'
+Circuit sky130_fd_sc_hd__decap_6 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__decap_6 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__fill_1'
+Circuit sky130_fd_sc_hd__fill_1 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__fill_1'
+Circuit sky130_fd_sc_hd__fill_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__fill_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__tapvpwrvgnd_1'
+Circuit sky130_fd_sc_hd__tapvpwrvgnd_1 contains 0 device instances.
+Circuit contains 0 nets, and 2 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__tapvpwrvgnd_1'
+Circuit sky130_fd_sc_hd__tapvpwrvgnd_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__tapvpwrvgnd_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__decap_4'
+Circuit sky130_fd_sc_hd__decap_4 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__decap_4'
+Circuit sky130_fd_sc_hd__decap_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__decap_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__decap_3'
+Circuit sky130_fd_sc_hd__decap_3 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__decap_3'
+Circuit sky130_fd_sc_hd__decap_3 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__decap_3 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21a_4'
+Circuit sky130_fd_sc_hd__o21a_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21a_4'
+Circuit sky130_fd_sc_hd__o21a_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o21a_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__mux2_8'
+Circuit sky130_fd_sc_hd__mux2_8 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__mux2_8'
+Circuit sky130_fd_sc_hd__mux2_8 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__mux2_8 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__decap_8'
+Circuit sky130_fd_sc_hd__decap_8 contains 0 device instances.
+Circuit contains 0 nets, and 4 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__decap_8'
+Circuit sky130_fd_sc_hd__decap_8 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__decap_8 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__dfxtp_4'
+Circuit sky130_fd_sc_hd__dfxtp_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__dfxtp_4'
+Circuit sky130_fd_sc_hd__dfxtp_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__dfxtp_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_2'
+Circuit sky130_fd_sc_hd__buf_2 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_2'
+Circuit sky130_fd_sc_hd__buf_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__buf_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__mux2_4'
+Circuit sky130_fd_sc_hd__mux2_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__mux2_4'
+Circuit sky130_fd_sc_hd__mux2_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__mux2_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkbuf_2'
+Circuit sky130_fd_sc_hd__clkbuf_2 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkbuf_2'
+Circuit sky130_fd_sc_hd__clkbuf_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__clkbuf_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a31oi_4'
+Circuit sky130_fd_sc_hd__a31oi_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a31oi_4'
+Circuit sky130_fd_sc_hd__a31oi_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a31oi_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or2_4'
+Circuit sky130_fd_sc_hd__or2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or2_4'
+Circuit sky130_fd_sc_hd__or2_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__or2_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor2_8'
+Circuit sky130_fd_sc_hd__nor2_8 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor2_8'
+Circuit sky130_fd_sc_hd__nor2_8 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor2_8 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor2_1'
+Circuit sky130_fd_sc_hd__nor2_1 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor2_1'
+Circuit sky130_fd_sc_hd__nor2_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor2_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_12'
+Circuit sky130_fd_sc_hd__buf_12 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_12'
+Circuit sky130_fd_sc_hd__buf_12 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__buf_12 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkbuf_8'
+Circuit sky130_fd_sc_hd__clkbuf_8 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkbuf_8'
+Circuit sky130_fd_sc_hd__clkbuf_8 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__clkbuf_8 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__xnor2_1'
+Circuit sky130_fd_sc_hd__xnor2_1 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__xnor2_1'
+Circuit sky130_fd_sc_hd__xnor2_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__xnor2_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or3_4'
+Circuit sky130_fd_sc_hd__or3_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or3_4'
+Circuit sky130_fd_sc_hd__or3_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__or3_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21ai_4'
+Circuit sky130_fd_sc_hd__o21ai_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21ai_4'
+Circuit sky130_fd_sc_hd__o21ai_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o21ai_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21o_4'
+Circuit sky130_fd_sc_hd__a21o_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21o_4'
+Circuit sky130_fd_sc_hd__a21o_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a21o_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_6'
+Circuit sky130_fd_sc_hd__buf_6 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_6'
+Circuit sky130_fd_sc_hd__buf_6 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__buf_6 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_8'
+Circuit sky130_fd_sc_hd__buf_8 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_8'
+Circuit sky130_fd_sc_hd__buf_8 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__buf_8 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_4'
+Circuit sky130_fd_sc_hd__buf_4 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_4'
+Circuit sky130_fd_sc_hd__buf_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__buf_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkbuf_16'
+Circuit sky130_fd_sc_hd__clkbuf_16 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkbuf_16'
+Circuit sky130_fd_sc_hd__clkbuf_16 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__clkbuf_16 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkinv_4'
+Circuit sky130_fd_sc_hd__clkinv_4 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkinv_4'
+Circuit sky130_fd_sc_hd__clkinv_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__clkinv_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o22a_4'
+Circuit sky130_fd_sc_hd__o22a_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o22a_4'
+Circuit sky130_fd_sc_hd__o22a_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o22a_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and3b_4'
+Circuit sky130_fd_sc_hd__and3b_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and3b_4'
+Circuit sky130_fd_sc_hd__and3b_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__and3b_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__mux2_2'
+Circuit sky130_fd_sc_hd__mux2_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__mux2_2'
+Circuit sky130_fd_sc_hd__mux2_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__mux2_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a2bb2o_4'
+Circuit sky130_fd_sc_hd__a2bb2o_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a2bb2o_4'
+Circuit sky130_fd_sc_hd__a2bb2o_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a2bb2o_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a31o_4'
+Circuit sky130_fd_sc_hd__a31o_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a31o_4'
+Circuit sky130_fd_sc_hd__a31o_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a31o_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a221o_4'
+Circuit sky130_fd_sc_hd__a221o_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a221o_4'
+Circuit sky130_fd_sc_hd__a221o_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a221o_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__dfxtp_2'
+Circuit sky130_fd_sc_hd__dfxtp_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__dfxtp_2'
+Circuit sky130_fd_sc_hd__dfxtp_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__dfxtp_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkbuf_4'
+Circuit sky130_fd_sc_hd__clkbuf_4 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkbuf_4'
+Circuit sky130_fd_sc_hd__clkbuf_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__clkbuf_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21oi_4'
+Circuit sky130_fd_sc_hd__a21oi_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21oi_4'
+Circuit sky130_fd_sc_hd__a21oi_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a21oi_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21a_1'
+Circuit sky130_fd_sc_hd__o21a_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21a_1'
+Circuit sky130_fd_sc_hd__o21a_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o21a_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and2_4'
+Circuit sky130_fd_sc_hd__and2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and2_4'
+Circuit sky130_fd_sc_hd__and2_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__and2_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or4_4'
+Circuit sky130_fd_sc_hd__or4_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or4_4'
+Circuit sky130_fd_sc_hd__or4_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__or4_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__xor2_1'
+Circuit sky130_fd_sc_hd__xor2_1 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__xor2_1'
+Circuit sky130_fd_sc_hd__xor2_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__xor2_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21ba_1'
+Circuit sky130_fd_sc_hd__o21ba_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21ba_1'
+Circuit sky130_fd_sc_hd__o21ba_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o21ba_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand2_2'
+Circuit sky130_fd_sc_hd__nand2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand2_2'
+Circuit sky130_fd_sc_hd__nand2_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nand2_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or3_1'
+Circuit sky130_fd_sc_hd__or3_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or3_1'
+Circuit sky130_fd_sc_hd__or3_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__or3_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21ba_4'
+Circuit sky130_fd_sc_hd__o21ba_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21ba_4'
+Circuit sky130_fd_sc_hd__o21ba_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o21ba_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__xnor2_4'
+Circuit sky130_fd_sc_hd__xnor2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__xnor2_4'
+Circuit sky130_fd_sc_hd__xnor2_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__xnor2_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand2_8'
+Circuit sky130_fd_sc_hd__nand2_8 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand2_8'
+Circuit sky130_fd_sc_hd__nand2_8 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nand2_8 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21bo_4'
+Circuit sky130_fd_sc_hd__a21bo_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21bo_4'
+Circuit sky130_fd_sc_hd__a21bo_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a21bo_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor2_4'
+Circuit sky130_fd_sc_hd__nor2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor2_4'
+Circuit sky130_fd_sc_hd__nor2_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor2_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o221a_4'
+Circuit sky130_fd_sc_hd__o221a_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o221a_4'
+Circuit sky130_fd_sc_hd__o221a_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o221a_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and3_4'
+Circuit sky130_fd_sc_hd__and3_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and3_4'
+Circuit sky130_fd_sc_hd__and3_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__and3_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21ai_1'
+Circuit sky130_fd_sc_hd__o21ai_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21ai_1'
+Circuit sky130_fd_sc_hd__o21ai_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o21ai_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o31ai_2'
+Circuit sky130_fd_sc_hd__o31ai_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o31ai_2'
+Circuit sky130_fd_sc_hd__o31ai_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o31ai_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o31ai_4'
+Circuit sky130_fd_sc_hd__o31ai_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o31ai_4'
+Circuit sky130_fd_sc_hd__o31ai_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o31ai_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__dfxtp_1'
+Circuit sky130_fd_sc_hd__dfxtp_1 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__dfxtp_1'
+Circuit sky130_fd_sc_hd__dfxtp_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__dfxtp_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o311a_4'
+Circuit sky130_fd_sc_hd__o311a_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o311a_4'
+Circuit sky130_fd_sc_hd__o311a_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o311a_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o211a_4'
+Circuit sky130_fd_sc_hd__o211a_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o211a_4'
+Circuit sky130_fd_sc_hd__o211a_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o211a_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand3_1'
+Circuit sky130_fd_sc_hd__nand3_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand3_1'
+Circuit sky130_fd_sc_hd__nand3_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nand3_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o2bb2a_4'
+Circuit sky130_fd_sc_hd__o2bb2a_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o2bb2a_4'
+Circuit sky130_fd_sc_hd__o2bb2a_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o2bb2a_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and2b_4'
+Circuit sky130_fd_sc_hd__and2b_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and2b_4'
+Circuit sky130_fd_sc_hd__and2b_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__and2b_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand3_4'
+Circuit sky130_fd_sc_hd__nand3_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand3_4'
+Circuit sky130_fd_sc_hd__nand3_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nand3_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a311oi_4'
+Circuit sky130_fd_sc_hd__a311oi_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a311oi_4'
+Circuit sky130_fd_sc_hd__a311oi_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a311oi_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or3b_4'
+Circuit sky130_fd_sc_hd__or3b_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or3b_4'
+Circuit sky130_fd_sc_hd__or3b_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__or3b_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a22oi_4'
+Circuit sky130_fd_sc_hd__a22oi_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a22oi_4'
+Circuit sky130_fd_sc_hd__a22oi_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a22oi_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21ai_2'
+Circuit sky130_fd_sc_hd__o21ai_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21ai_2'
+Circuit sky130_fd_sc_hd__o21ai_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o21ai_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21boi_4'
+Circuit sky130_fd_sc_hd__a21boi_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21boi_4'
+Circuit sky130_fd_sc_hd__a21boi_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a21boi_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__dlymetal6s2s_1'
+Circuit sky130_fd_sc_hd__dlymetal6s2s_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__dlymetal6s2s_1'
+Circuit sky130_fd_sc_hd__dlymetal6s2s_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__dlymetal6s2s_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21bai_4'
+Circuit sky130_fd_sc_hd__o21bai_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21bai_4'
+Circuit sky130_fd_sc_hd__o21bai_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o21bai_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__xor2_4'
+Circuit sky130_fd_sc_hd__xor2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__xor2_4'
+Circuit sky130_fd_sc_hd__xor2_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__xor2_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__inv_6'
+Circuit sky130_fd_sc_hd__inv_6 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__inv_6'
+Circuit sky130_fd_sc_hd__inv_6 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__inv_6 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkinvlp_4'
+Circuit sky130_fd_sc_hd__clkinvlp_4 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkinvlp_4'
+Circuit sky130_fd_sc_hd__clkinvlp_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__clkinvlp_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand2_4'
+Circuit sky130_fd_sc_hd__nand2_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand2_4'
+Circuit sky130_fd_sc_hd__nand2_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nand2_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__xor2_2'
+Circuit sky130_fd_sc_hd__xor2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__xor2_2'
+Circuit sky130_fd_sc_hd__xor2_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__xor2_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21o_2'
+Circuit sky130_fd_sc_hd__a21o_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21o_2'
+Circuit sky130_fd_sc_hd__a21o_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a21o_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__mux2_1'
+Circuit sky130_fd_sc_hd__mux2_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__mux2_1'
+Circuit sky130_fd_sc_hd__mux2_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__mux2_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a22o_1'
+Circuit sky130_fd_sc_hd__a22o_1 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a22o_1'
+Circuit sky130_fd_sc_hd__a22o_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a22o_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a22o_4'
+Circuit sky130_fd_sc_hd__a22o_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a22o_4'
+Circuit sky130_fd_sc_hd__a22o_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a22o_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21oi_2'
+Circuit sky130_fd_sc_hd__a21oi_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21oi_2'
+Circuit sky130_fd_sc_hd__a21oi_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a21oi_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and3_2'
+Circuit sky130_fd_sc_hd__and3_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and3_2'
+Circuit sky130_fd_sc_hd__and3_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__and3_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__xnor2_2'
+Circuit sky130_fd_sc_hd__xnor2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__xnor2_2'
+Circuit sky130_fd_sc_hd__xnor2_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__xnor2_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or4b_4'
+Circuit sky130_fd_sc_hd__or4b_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or4b_4'
+Circuit sky130_fd_sc_hd__or4b_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__or4b_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__bufinv_8'
+Circuit sky130_fd_sc_hd__bufinv_8 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__bufinv_8'
+Circuit sky130_fd_sc_hd__bufinv_8 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__bufinv_8 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o2bb2a_1'
+Circuit sky130_fd_sc_hd__o2bb2a_1 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o2bb2a_1'
+Circuit sky130_fd_sc_hd__o2bb2a_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o2bb2a_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a32o_4'
+Circuit sky130_fd_sc_hd__a32o_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a32o_4'
+Circuit sky130_fd_sc_hd__a32o_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a32o_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__buf_1'
+Circuit sky130_fd_sc_hd__buf_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__buf_1'
+Circuit sky130_fd_sc_hd__buf_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__buf_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21oi_1'
+Circuit sky130_fd_sc_hd__a21oi_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21oi_1'
+Circuit sky130_fd_sc_hd__a21oi_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a21oi_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or2_2'
+Circuit sky130_fd_sc_hd__or2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or2_2'
+Circuit sky130_fd_sc_hd__or2_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__or2_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a32o_2'
+Circuit sky130_fd_sc_hd__a32o_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a32o_2'
+Circuit sky130_fd_sc_hd__a32o_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a32o_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor2_2'
+Circuit sky130_fd_sc_hd__nor2_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor2_2'
+Circuit sky130_fd_sc_hd__nor2_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor2_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o31a_4'
+Circuit sky130_fd_sc_hd__o31a_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o31a_4'
+Circuit sky130_fd_sc_hd__o31a_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o31a_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__bufinv_16'
+Circuit sky130_fd_sc_hd__bufinv_16 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__bufinv_16'
+Circuit sky130_fd_sc_hd__bufinv_16 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__bufinv_16 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor3b_4'
+Circuit sky130_fd_sc_hd__nor3b_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor3b_4'
+Circuit sky130_fd_sc_hd__nor3b_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor3b_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkinv_1'
+Circuit sky130_fd_sc_hd__clkinv_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkinv_1'
+Circuit sky130_fd_sc_hd__clkinv_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__clkinv_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__inv_4'
+Circuit sky130_fd_sc_hd__inv_4 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__inv_4'
+Circuit sky130_fd_sc_hd__inv_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__inv_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o211ai_1'
+Circuit sky130_fd_sc_hd__o211ai_1 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o211ai_1'
+Circuit sky130_fd_sc_hd__o211ai_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o211ai_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21ba_2'
+Circuit sky130_fd_sc_hd__o21ba_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21ba_2'
+Circuit sky130_fd_sc_hd__o21ba_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o21ba_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o22ai_4'
+Circuit sky130_fd_sc_hd__o22ai_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o22ai_4'
+Circuit sky130_fd_sc_hd__o22ai_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o22ai_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__dfrtp_4'
+Circuit sky130_fd_sc_hd__dfrtp_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__dfrtp_4'
+Circuit sky130_fd_sc_hd__dfrtp_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__dfrtp_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a31o_1'
+Circuit sky130_fd_sc_hd__a31o_1 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a31o_1'
+Circuit sky130_fd_sc_hd__a31o_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a31o_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__inv_2'
+Circuit sky130_fd_sc_hd__inv_2 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__inv_2'
+Circuit sky130_fd_sc_hd__inv_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__inv_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o22a_2'
+Circuit sky130_fd_sc_hd__o22a_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o22a_2'
+Circuit sky130_fd_sc_hd__o22a_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o22a_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or2b_4'
+Circuit sky130_fd_sc_hd__or2b_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or2b_4'
+Circuit sky130_fd_sc_hd__or2b_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__or2b_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkbuf_1'
+Circuit sky130_fd_sc_hd__clkbuf_1 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkbuf_1'
+Circuit sky130_fd_sc_hd__clkbuf_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__clkbuf_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o32ai_4'
+Circuit sky130_fd_sc_hd__o32ai_4 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o32ai_4'
+Circuit sky130_fd_sc_hd__o32ai_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o32ai_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and4_4'
+Circuit sky130_fd_sc_hd__and4_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and4_4'
+Circuit sky130_fd_sc_hd__and4_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__and4_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21boi_1'
+Circuit sky130_fd_sc_hd__a21boi_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21boi_1'
+Circuit sky130_fd_sc_hd__a21boi_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a21boi_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor3b_1'
+Circuit sky130_fd_sc_hd__nor3b_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor3b_1'
+Circuit sky130_fd_sc_hd__nor3b_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor3b_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or4bb_4'
+Circuit sky130_fd_sc_hd__or4bb_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or4bb_4'
+Circuit sky130_fd_sc_hd__or4bb_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__or4bb_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor3_1'
+Circuit sky130_fd_sc_hd__nor3_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor3_1'
+Circuit sky130_fd_sc_hd__nor3_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor3_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__clkinv_16'
+Circuit sky130_fd_sc_hd__clkinv_16 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__clkinv_16'
+Circuit sky130_fd_sc_hd__clkinv_16 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__clkinv_16 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor3_4'
+Circuit sky130_fd_sc_hd__nor3_4 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor3_4'
+Circuit sky130_fd_sc_hd__nor3_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor3_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a211o_4'
+Circuit sky130_fd_sc_hd__a211o_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a211o_4'
+Circuit sky130_fd_sc_hd__a211o_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a211o_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a221o_2'
+Circuit sky130_fd_sc_hd__a221o_2 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a221o_2'
+Circuit sky130_fd_sc_hd__a221o_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a221o_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__inv_8'
+Circuit sky130_fd_sc_hd__inv_8 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__inv_8'
+Circuit sky130_fd_sc_hd__inv_8 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__inv_8 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand2b_4'
+Circuit sky130_fd_sc_hd__nand2b_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand2b_4'
+Circuit sky130_fd_sc_hd__nand2b_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nand2b_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor2b_4'
+Circuit sky130_fd_sc_hd__nor2b_4 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor2b_4'
+Circuit sky130_fd_sc_hd__nor2b_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor2b_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__inv_16'
+Circuit sky130_fd_sc_hd__inv_16 contains 0 device instances.
+Circuit contains 0 nets, and 6 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__inv_16'
+Circuit sky130_fd_sc_hd__inv_16 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__inv_16 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nand2_1'
+Circuit sky130_fd_sc_hd__nand2_1 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nand2_1'
+Circuit sky130_fd_sc_hd__nand2_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nand2_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__or2_1'
+Circuit sky130_fd_sc_hd__or2_1 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__or2_1'
+Circuit sky130_fd_sc_hd__or2_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__or2_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o211ai_4'
+Circuit sky130_fd_sc_hd__o211ai_4 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o211ai_4'
+Circuit sky130_fd_sc_hd__o211ai_4 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o211ai_4 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__and2b_2'
+Circuit sky130_fd_sc_hd__and2b_2 contains 0 device instances.
+Circuit contains 0 nets, and 7 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__and2b_2'
+Circuit sky130_fd_sc_hd__and2b_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__and2b_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__o21a_2'
+Circuit sky130_fd_sc_hd__o21a_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__o21a_2'
+Circuit sky130_fd_sc_hd__o21a_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__o21a_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor4_1'
+Circuit sky130_fd_sc_hd__nor4_1 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor4_1'
+Circuit sky130_fd_sc_hd__nor4_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor4_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a211oi_1'
+Circuit sky130_fd_sc_hd__a211oi_1 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a211oi_1'
+Circuit sky130_fd_sc_hd__a211oi_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a211oi_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a2bb2o_2'
+Circuit sky130_fd_sc_hd__a2bb2o_2 contains 0 device instances.
+Circuit contains 0 nets, and 9 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a2bb2o_2'
+Circuit sky130_fd_sc_hd__a2bb2o_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a2bb2o_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__nor3_2'
+Circuit sky130_fd_sc_hd__nor3_2 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__nor3_2'
+Circuit sky130_fd_sc_hd__nor3_2 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__nor3_2 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a21o_1'
+Circuit sky130_fd_sc_hd__a21o_1 contains 0 device instances.
+Circuit contains 0 nets, and 8 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a21o_1'
+Circuit sky130_fd_sc_hd__a21o_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a21o_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'sky130_fd_sc_hd__a221o_1'
+Circuit sky130_fd_sc_hd__a221o_1 contains 0 device instances.
+Circuit contains 0 nets, and 10 disconnected pins.
+Contents of circuit 2:  Circuit: 'sky130_fd_sc_hd__a221o_1'
+Circuit sky130_fd_sc_hd__a221o_1 contains 0 device instances.
+Circuit contains 0 nets.
+
+Circuit sky130_fd_sc_hd__a221o_1 contains no devices.
+
+Contents of circuit 1:  Circuit: 'top_module_project5'
+Circuit top_module_project5 contains 102708 device instances.
+  Class: sky130_fd_sc_hd__bufinv_16 instances:   1
+  Class: sky130_fd_sc_hd__a31o_1 instances:   1
+  Class: sky130_fd_sc_hd__a31o_4 instances:  20
+  Class: sky130_fd_sc_hd__a21o_1 instances:   1
+  Class: sky130_fd_sc_hd__a21o_2 instances:   4
+  Class: sky130_fd_sc_hd__a21o_4 instances:  19
+  Class: sky130_fd_sc_hd__o32ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances:  40
+  Class: sky130_fd_sc_hd__dfxtp_1 instances:   6
+  Class: sky130_fd_sc_hd__dfxtp_2 instances:  10
+  Class: sky130_fd_sc_hd__dfxtp_4 instances: 198
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   3
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   4
+  Class: sky130_fd_sc_hd__or4_4 instances:  12
+  Class: sky130_fd_sc_hd__buf_1 instances:   7
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   2
+  Class: sky130_fd_sc_hd__buf_2 instances:  78
+  Class: sky130_fd_sc_hd__buf_4 instances: 168
+  Class: sky130_fd_sc_hd__buf_6 instances:  67
+  Class: sky130_fd_sc_hd__buf_8 instances:  87
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:   1
+  Class: sky130_fd_sc_hd__a2bb2o_4 instances:  11
+  Class: sky130_fd_sc_hd__and3b_4 instances:   2
+  Class: sky130_fd_sc_hd__xor2_1 instances:   3
+  Class: sky130_fd_sc_hd__xor2_2 instances:   2
+  Class: sky130_fd_sc_hd__xor2_4 instances:   8
+  Class: sky130_ef_sc_hd__decap_12 instances: 51203
+  Class: sky130_fd_sc_hd__dfrtp_4 instances:   3
+  Class: sky130_fd_sc_hd__and4_4 instances:   2
+  Class: sky130_fd_sc_hd__bufinv_8 instances:   2
+  Class: sky130_fd_sc_hd__inv_2 instances:   3
+  Class: sky130_fd_sc_hd__inv_4 instances:   5
+  Class: sky130_fd_sc_hd__inv_6 instances:   8
+  Class: sky130_fd_sc_hd__inv_8 instances:   2
+  Class: sky130_fd_sc_hd__clkbuf_1 instances:   3
+  Class: sky130_fd_sc_hd__clkbuf_2 instances:  23
+  Class: sky130_fd_sc_hd__clkbuf_4 instances:  90
+  Class: sky130_fd_sc_hd__clkbuf_8 instances: 176
+  Class: sky130_fd_sc_hd__or3_1 instances:   1
+  Class: sky130_fd_sc_hd__or3_4 instances:  20
+  Class: sky130_fd_sc_hd__nand3_1 instances:   1
+  Class: sky130_fd_sc_hd__nand3_4 instances:  11
+  Class: sky130_fd_sc_hd__o21ba_1 instances:   2
+  Class: sky130_fd_sc_hd__o21ba_2 instances:   1
+  Class: sky130_fd_sc_hd__o21ba_4 instances:   2
+  Class: sky130_fd_sc_hd__and2b_2 instances:   1
+  Class: sky130_fd_sc_hd__and2b_4 instances:  18
+  Class: sky130_fd_sc_hd__a21boi_1 instances:   1
+  Class: sky130_fd_sc_hd__a21boi_4 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances: 161
+  Class: sky130_fd_sc_hd__a21bo_4 instances:   5
+  Class: sky130_fd_sc_hd__clkinv_1 instances:   4
+  Class: sky130_fd_sc_hd__clkinv_4 instances:   7
+  Class: sky130_fd_sc_hd__and3_2 instances:   4
+  Class: sky130_fd_sc_hd__and3_4 instances:  12
+  Class: sky130_fd_sc_hd__decap_3 instances: 1999
+  Class: sky130_fd_sc_hd__decap_4 instances: 1410
+  Class: sky130_fd_sc_hd__decap_6 instances: 10970
+  Class: sky130_fd_sc_hd__decap_8 instances: 1482
+  Class: sky130_fd_sc_hd__or2_1 instances:   1
+  Class: sky130_fd_sc_hd__or2_2 instances:   4
+  Class: sky130_fd_sc_hd__or2_4 instances:  41
+  Class: sky130_fd_sc_hd__nand2_1 instances:   3
+  Class: sky130_fd_sc_hd__nand2_2 instances:   3
+  Class: sky130_fd_sc_hd__nand2_4 instances:   8
+  Class: sky130_fd_sc_hd__nand2_8 instances:  39
+  Class: sky130_fd_sc_hd__mux2_1 instances:   7
+  Class: sky130_fd_sc_hd__mux2_2 instances:  27
+  Class: sky130_fd_sc_hd__mux2_4 instances:  78
+  Class: sky130_fd_sc_hd__mux2_8 instances: 246
+  Class: sky130_fd_sc_hd__a211oi_1 instances:   1
+  Class: sky130_fd_sc_hd__and2_4 instances:  16
+  Class: sky130_fd_sc_hd__or4b_4 instances:   4
+  Class: sky130_fd_sc_hd__clkinvlp_4 instances:   2
+  Class: sky130_fd_sc_hd__nor4_1 instances:   1
+  Class: sky130_fd_sc_hd__inv_16 instances:   1
+  Class: sky130_fd_sc_hd__o22a_2 instances:   1
+  Class: sky130_fd_sc_hd__o22a_4 instances:   6
+  Class: sky130_fd_sc_hd__xnor2_1 instances:   1
+  Class: sky130_fd_sc_hd__xnor2_2 instances:   7
+  Class: sky130_fd_sc_hd__xnor2_4 instances:  18
+  Class: sky130_fd_sc_hd__nor3b_1 instances:   1
+  Class: sky130_fd_sc_hd__nor3b_4 instances:   2
+  Class: sky130_fd_sc_hd__o221a_4 instances:  10
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   2
+  Class: sky130_fd_sc_hd__o211a_4 instances:   3
+  Class: sky130_fd_sc_hd__nand2b_4 instances:   1
+  Class: sky130_fd_sc_hd__diode_2 instances: 4062
+  Class: sky130_fd_sc_hd__a311oi_4 instances:   1
+  Class: sky130_fd_sc_hd__a221o_1 instances:   1
+  Class: sky130_fd_sc_hd__a221o_2 instances:   3
+  Class: sky130_fd_sc_hd__a221o_4 instances:  30
+  Class: sky130_fd_sc_hd__a211o_4 instances:   5
+  Class: sky130_fd_sc_hd__or3b_4 instances:   4
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:   6
+  Class: sky130_fd_sc_hd__nor3_1 instances:   2
+  Class: sky130_fd_sc_hd__nor3_2 instances:   1
+  Class: sky130_fd_sc_hd__or4bb_4 instances:   2
+  Class: sky130_fd_sc_hd__nor3_4 instances:   1
+  Class: sky130_fd_sc_hd__a32o_2 instances:   1
+  Class: sky130_fd_sc_hd__a32o_4 instances:   3
+  Class: sky130_fd_sc_hd__a22o_1 instances:   1
+  Class: sky130_fd_sc_hd__a22o_4 instances:   7
+  Class: sky130_fd_sc_hd__o31a_4 instances:   2
+  Class: sky130_fd_sc_hd__o2bb2a_1 instances:   1
+  Class: sky130_fd_sc_hd__o2bb2a_4 instances:   2
+  Class: sky130_fd_sc_hd__o21a_1 instances:   4
+  Class: sky130_fd_sc_hd__o21a_2 instances:   1
+  Class: sky130_fd_sc_hd__o21a_4 instances:  40
+  Class: sky130_fd_sc_hd__o311a_4 instances:   1
+  Class: sky130_fd_sc_hd__o22ai_4 instances:   2
+  Class: sky130_fd_sc_hd__nor2b_4 instances:   1
+  Class: sky130_fd_sc_hd__a22oi_4 instances:   2
+  Class: sky130_fd_sc_hd__o21ai_1 instances:   5
+  Class: sky130_fd_sc_hd__o21ai_2 instances:   4
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances: 13718
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  31
+  Class: sky130_fd_sc_hd__a21oi_1 instances:   3
+  Class: sky130_fd_sc_hd__a21oi_2 instances:   6
+  Class: sky130_fd_sc_hd__a21oi_4 instances:  38
+  Class: sky130_fd_sc_hd__fill_1 instances: 12647
+  Class: sky130_fd_sc_hd__fill_2 instances: 3080
+  Class: sky130_fd_sc_hd__o211ai_1 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkinv_16 instances:   1
+  Class: sky130_fd_sc_hd__or2b_4 instances:   5
+  Class: sky130_fd_sc_hd__nor2_1 instances:   9
+  Class: sky130_fd_sc_hd__nor2_2 instances:   9
+  Class: sky130_fd_sc_hd__nor2_4 instances:  18
+  Class: sky130_fd_sc_hd__nor2_8 instances:  22
+Circuit contains 2142 nets.
+Contents of circuit 2:  Circuit: 'top_module_project5'
+Circuit top_module_project5 contains 102708 device instances.
+  Class: sky130_fd_sc_hd__bufinv_16 instances:   1
+  Class: sky130_fd_sc_hd__a31o_1 instances:   1
+  Class: sky130_fd_sc_hd__a31o_4 instances:  20
+  Class: sky130_fd_sc_hd__a21o_1 instances:   1
+  Class: sky130_fd_sc_hd__a21o_2 instances:   4
+  Class: sky130_fd_sc_hd__a21o_4 instances:  19
+  Class: sky130_fd_sc_hd__o32ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances:  40
+  Class: sky130_fd_sc_hd__dfxtp_1 instances:   6
+  Class: sky130_fd_sc_hd__dfxtp_2 instances:  10
+  Class: sky130_fd_sc_hd__dfxtp_4 instances: 198
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   3
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   4
+  Class: sky130_fd_sc_hd__or4_4 instances:  12
+  Class: sky130_fd_sc_hd__buf_1 instances:   7
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   2
+  Class: sky130_fd_sc_hd__buf_2 instances:  78
+  Class: sky130_fd_sc_hd__buf_4 instances: 168
+  Class: sky130_fd_sc_hd__buf_6 instances:  67
+  Class: sky130_fd_sc_hd__buf_8 instances:  87
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:   1
+  Class: sky130_fd_sc_hd__a2bb2o_4 instances:  11
+  Class: sky130_fd_sc_hd__and3b_4 instances:   2
+  Class: sky130_fd_sc_hd__xor2_1 instances:   3
+  Class: sky130_fd_sc_hd__xor2_2 instances:   2
+  Class: sky130_fd_sc_hd__xor2_4 instances:   8
+  Class: sky130_ef_sc_hd__decap_12 instances: 51203
+  Class: sky130_fd_sc_hd__dfrtp_4 instances:   3
+  Class: sky130_fd_sc_hd__and4_4 instances:   2
+  Class: sky130_fd_sc_hd__bufinv_8 instances:   2
+  Class: sky130_fd_sc_hd__inv_2 instances:   3
+  Class: sky130_fd_sc_hd__inv_4 instances:   5
+  Class: sky130_fd_sc_hd__inv_6 instances:   8
+  Class: sky130_fd_sc_hd__inv_8 instances:   2
+  Class: sky130_fd_sc_hd__clkbuf_1 instances:   3
+  Class: sky130_fd_sc_hd__clkbuf_2 instances:  23
+  Class: sky130_fd_sc_hd__clkbuf_4 instances:  90
+  Class: sky130_fd_sc_hd__clkbuf_8 instances: 176
+  Class: sky130_fd_sc_hd__or3_1 instances:   1
+  Class: sky130_fd_sc_hd__or3_4 instances:  20
+  Class: sky130_fd_sc_hd__nand3_1 instances:   1
+  Class: sky130_fd_sc_hd__nand3_4 instances:  11
+  Class: sky130_fd_sc_hd__o21ba_1 instances:   2
+  Class: sky130_fd_sc_hd__o21ba_2 instances:   1
+  Class: sky130_fd_sc_hd__o21ba_4 instances:   2
+  Class: sky130_fd_sc_hd__and2b_2 instances:   1
+  Class: sky130_fd_sc_hd__and2b_4 instances:  18
+  Class: sky130_fd_sc_hd__a21boi_1 instances:   1
+  Class: sky130_fd_sc_hd__a21boi_4 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances: 161
+  Class: sky130_fd_sc_hd__a21bo_4 instances:   5
+  Class: sky130_fd_sc_hd__clkinv_1 instances:   4
+  Class: sky130_fd_sc_hd__clkinv_4 instances:   7
+  Class: sky130_fd_sc_hd__and3_2 instances:   4
+  Class: sky130_fd_sc_hd__and3_4 instances:  12
+  Class: sky130_fd_sc_hd__decap_3 instances: 1999
+  Class: sky130_fd_sc_hd__decap_4 instances: 1410
+  Class: sky130_fd_sc_hd__decap_6 instances: 10970
+  Class: sky130_fd_sc_hd__decap_8 instances: 1482
+  Class: sky130_fd_sc_hd__or2_1 instances:   1
+  Class: sky130_fd_sc_hd__or2_2 instances:   4
+  Class: sky130_fd_sc_hd__or2_4 instances:  41
+  Class: sky130_fd_sc_hd__nand2_1 instances:   3
+  Class: sky130_fd_sc_hd__nand2_2 instances:   3
+  Class: sky130_fd_sc_hd__nand2_4 instances:   8
+  Class: sky130_fd_sc_hd__nand2_8 instances:  39
+  Class: sky130_fd_sc_hd__mux2_1 instances:   7
+  Class: sky130_fd_sc_hd__mux2_2 instances:  27
+  Class: sky130_fd_sc_hd__mux2_4 instances:  78
+  Class: sky130_fd_sc_hd__mux2_8 instances: 246
+  Class: sky130_fd_sc_hd__a211oi_1 instances:   1
+  Class: sky130_fd_sc_hd__and2_4 instances:  16
+  Class: sky130_fd_sc_hd__or4b_4 instances:   4
+  Class: sky130_fd_sc_hd__clkinvlp_4 instances:   2
+  Class: sky130_fd_sc_hd__nor4_1 instances:   1
+  Class: sky130_fd_sc_hd__inv_16 instances:   1
+  Class: sky130_fd_sc_hd__o22a_2 instances:   1
+  Class: sky130_fd_sc_hd__o22a_4 instances:   6
+  Class: sky130_fd_sc_hd__xnor2_1 instances:   1
+  Class: sky130_fd_sc_hd__xnor2_2 instances:   7
+  Class: sky130_fd_sc_hd__xnor2_4 instances:  18
+  Class: sky130_fd_sc_hd__nor3b_1 instances:   1
+  Class: sky130_fd_sc_hd__nor3b_4 instances:   2
+  Class: sky130_fd_sc_hd__o221a_4 instances:  10
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   2
+  Class: sky130_fd_sc_hd__o211a_4 instances:   3
+  Class: sky130_fd_sc_hd__nand2b_4 instances:   1
+  Class: sky130_fd_sc_hd__diode_2 instances: 4062
+  Class: sky130_fd_sc_hd__a311oi_4 instances:   1
+  Class: sky130_fd_sc_hd__a221o_1 instances:   1
+  Class: sky130_fd_sc_hd__a221o_2 instances:   3
+  Class: sky130_fd_sc_hd__a221o_4 instances:  30
+  Class: sky130_fd_sc_hd__a211o_4 instances:   5
+  Class: sky130_fd_sc_hd__or3b_4 instances:   4
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:   6
+  Class: sky130_fd_sc_hd__nor3_1 instances:   2
+  Class: sky130_fd_sc_hd__nor3_2 instances:   1
+  Class: sky130_fd_sc_hd__or4bb_4 instances:   2
+  Class: sky130_fd_sc_hd__nor3_4 instances:   1
+  Class: sky130_fd_sc_hd__a32o_2 instances:   1
+  Class: sky130_fd_sc_hd__a32o_4 instances:   3
+  Class: sky130_fd_sc_hd__a22o_1 instances:   1
+  Class: sky130_fd_sc_hd__a22o_4 instances:   7
+  Class: sky130_fd_sc_hd__o31a_4 instances:   2
+  Class: sky130_fd_sc_hd__o2bb2a_1 instances:   1
+  Class: sky130_fd_sc_hd__o2bb2a_4 instances:   2
+  Class: sky130_fd_sc_hd__o21a_1 instances:   4
+  Class: sky130_fd_sc_hd__o21a_2 instances:   1
+  Class: sky130_fd_sc_hd__o21a_4 instances:  40
+  Class: sky130_fd_sc_hd__o311a_4 instances:   1
+  Class: sky130_fd_sc_hd__o22ai_4 instances:   2
+  Class: sky130_fd_sc_hd__nor2b_4 instances:   1
+  Class: sky130_fd_sc_hd__a22oi_4 instances:   2
+  Class: sky130_fd_sc_hd__o21ai_1 instances:   5
+  Class: sky130_fd_sc_hd__o21ai_2 instances:   4
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances: 13718
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  31
+  Class: sky130_fd_sc_hd__a21oi_1 instances:   3
+  Class: sky130_fd_sc_hd__a21oi_2 instances:   6
+  Class: sky130_fd_sc_hd__a21oi_4 instances:  38
+  Class: sky130_fd_sc_hd__fill_1 instances: 12647
+  Class: sky130_fd_sc_hd__fill_2 instances: 3080
+  Class: sky130_fd_sc_hd__o211ai_1 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkinv_16 instances:   1
+  Class: sky130_fd_sc_hd__or2b_4 instances:   5
+  Class: sky130_fd_sc_hd__nor2_1 instances:   9
+  Class: sky130_fd_sc_hd__nor2_2 instances:   9
+  Class: sky130_fd_sc_hd__nor2_4 instances:  18
+  Class: sky130_fd_sc_hd__nor2_8 instances:  22
+Circuit contains 2142 nets.
+
+Circuit was modified by parallel/series device merging.
+New circuit summary:
+
+Contents of circuit 1:  Circuit: 'top_module_project5'
+Circuit top_module_project5 contains 4094 device instances.
+  Class: sky130_fd_sc_hd__bufinv_16 instances:   1
+  Class: sky130_fd_sc_hd__a31o_1 instances:   1
+  Class: sky130_fd_sc_hd__a31o_4 instances:  20
+  Class: sky130_fd_sc_hd__a21o_1 instances:   1
+  Class: sky130_fd_sc_hd__a21o_2 instances:   4
+  Class: sky130_fd_sc_hd__a21o_4 instances:  19
+  Class: sky130_fd_sc_hd__o32ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances:  40
+  Class: sky130_fd_sc_hd__dfxtp_1 instances:   6
+  Class: sky130_fd_sc_hd__dfxtp_2 instances:  10
+  Class: sky130_fd_sc_hd__dfxtp_4 instances: 198
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   3
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   4
+  Class: sky130_fd_sc_hd__or4_4 instances:  12
+  Class: sky130_fd_sc_hd__buf_1 instances:   7
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   2
+  Class: sky130_fd_sc_hd__buf_2 instances:  78
+  Class: sky130_fd_sc_hd__buf_4 instances: 168
+  Class: sky130_fd_sc_hd__buf_6 instances:  67
+  Class: sky130_fd_sc_hd__buf_8 instances:  87
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:   1
+  Class: sky130_fd_sc_hd__a2bb2o_4 instances:  11
+  Class: sky130_fd_sc_hd__and3b_4 instances:   2
+  Class: sky130_fd_sc_hd__xor2_1 instances:   3
+  Class: sky130_fd_sc_hd__xor2_2 instances:   2
+  Class: sky130_fd_sc_hd__xor2_4 instances:   8
+  Class: sky130_ef_sc_hd__decap_12 instances:   1
+  Class: sky130_fd_sc_hd__dfrtp_4 instances:   3
+  Class: sky130_fd_sc_hd__and4_4 instances:   2
+  Class: sky130_fd_sc_hd__bufinv_8 instances:   2
+  Class: sky130_fd_sc_hd__inv_2 instances:   3
+  Class: sky130_fd_sc_hd__inv_4 instances:   5
+  Class: sky130_fd_sc_hd__inv_6 instances:   8
+  Class: sky130_fd_sc_hd__inv_8 instances:   2
+  Class: sky130_fd_sc_hd__clkbuf_1 instances:   3
+  Class: sky130_fd_sc_hd__clkbuf_2 instances:  23
+  Class: sky130_fd_sc_hd__clkbuf_4 instances:  90
+  Class: sky130_fd_sc_hd__clkbuf_8 instances: 176
+  Class: sky130_fd_sc_hd__or3_1 instances:   1
+  Class: sky130_fd_sc_hd__or3_4 instances:  20
+  Class: sky130_fd_sc_hd__nand3_1 instances:   1
+  Class: sky130_fd_sc_hd__nand3_4 instances:  11
+  Class: sky130_fd_sc_hd__o21ba_1 instances:   2
+  Class: sky130_fd_sc_hd__o21ba_2 instances:   1
+  Class: sky130_fd_sc_hd__o21ba_4 instances:   2
+  Class: sky130_fd_sc_hd__and2b_2 instances:   1
+  Class: sky130_fd_sc_hd__and2b_4 instances:  18
+  Class: sky130_fd_sc_hd__a21boi_1 instances:   1
+  Class: sky130_fd_sc_hd__a21boi_4 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances: 161
+  Class: sky130_fd_sc_hd__a21bo_4 instances:   5
+  Class: sky130_fd_sc_hd__clkinv_1 instances:   4
+  Class: sky130_fd_sc_hd__clkinv_4 instances:   7
+  Class: sky130_fd_sc_hd__and3_2 instances:   4
+  Class: sky130_fd_sc_hd__and3_4 instances:  12
+  Class: sky130_fd_sc_hd__decap_3 instances:   1
+  Class: sky130_fd_sc_hd__decap_4 instances:   1
+  Class: sky130_fd_sc_hd__decap_6 instances:   1
+  Class: sky130_fd_sc_hd__decap_8 instances:   1
+  Class: sky130_fd_sc_hd__or2_1 instances:   1
+  Class: sky130_fd_sc_hd__or2_2 instances:   4
+  Class: sky130_fd_sc_hd__or2_4 instances:  41
+  Class: sky130_fd_sc_hd__nand2_1 instances:   3
+  Class: sky130_fd_sc_hd__nand2_2 instances:   3
+  Class: sky130_fd_sc_hd__nand2_4 instances:   8
+  Class: sky130_fd_sc_hd__nand2_8 instances:  39
+  Class: sky130_fd_sc_hd__mux2_1 instances:   7
+  Class: sky130_fd_sc_hd__mux2_2 instances:  27
+  Class: sky130_fd_sc_hd__mux2_4 instances:  78
+  Class: sky130_fd_sc_hd__mux2_8 instances: 246
+  Class: sky130_fd_sc_hd__a211oi_1 instances:   1
+  Class: sky130_fd_sc_hd__and2_4 instances:  16
+  Class: sky130_fd_sc_hd__or4b_4 instances:   4
+  Class: sky130_fd_sc_hd__clkinvlp_4 instances:   2
+  Class: sky130_fd_sc_hd__nor4_1 instances:   1
+  Class: sky130_fd_sc_hd__inv_16 instances:   1
+  Class: sky130_fd_sc_hd__o22a_2 instances:   1
+  Class: sky130_fd_sc_hd__o22a_4 instances:   6
+  Class: sky130_fd_sc_hd__xnor2_1 instances:   1
+  Class: sky130_fd_sc_hd__xnor2_2 instances:   7
+  Class: sky130_fd_sc_hd__xnor2_4 instances:  18
+  Class: sky130_fd_sc_hd__nor3b_1 instances:   1
+  Class: sky130_fd_sc_hd__nor3b_4 instances:   2
+  Class: sky130_fd_sc_hd__o221a_4 instances:  10
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   2
+  Class: sky130_fd_sc_hd__o211a_4 instances:   3
+  Class: sky130_fd_sc_hd__nand2b_4 instances:   1
+  Class: sky130_fd_sc_hd__diode_2 instances: 1949
+  Class: sky130_fd_sc_hd__a311oi_4 instances:   1
+  Class: sky130_fd_sc_hd__a221o_1 instances:   1
+  Class: sky130_fd_sc_hd__a221o_2 instances:   3
+  Class: sky130_fd_sc_hd__a221o_4 instances:  30
+  Class: sky130_fd_sc_hd__a211o_4 instances:   5
+  Class: sky130_fd_sc_hd__or3b_4 instances:   4
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:   6
+  Class: sky130_fd_sc_hd__nor3_1 instances:   2
+  Class: sky130_fd_sc_hd__nor3_2 instances:   1
+  Class: sky130_fd_sc_hd__or4bb_4 instances:   2
+  Class: sky130_fd_sc_hd__nor3_4 instances:   1
+  Class: sky130_fd_sc_hd__a32o_2 instances:   1
+  Class: sky130_fd_sc_hd__a32o_4 instances:   3
+  Class: sky130_fd_sc_hd__a22o_1 instances:   1
+  Class: sky130_fd_sc_hd__a22o_4 instances:   7
+  Class: sky130_fd_sc_hd__o31a_4 instances:   2
+  Class: sky130_fd_sc_hd__o2bb2a_1 instances:   1
+  Class: sky130_fd_sc_hd__o2bb2a_4 instances:   2
+  Class: sky130_fd_sc_hd__o21a_1 instances:   4
+  Class: sky130_fd_sc_hd__o21a_2 instances:   1
+  Class: sky130_fd_sc_hd__o21a_4 instances:  40
+  Class: sky130_fd_sc_hd__o311a_4 instances:   1
+  Class: sky130_fd_sc_hd__o22ai_4 instances:   2
+  Class: sky130_fd_sc_hd__nor2b_4 instances:   1
+  Class: sky130_fd_sc_hd__a22oi_4 instances:   2
+  Class: sky130_fd_sc_hd__o21ai_1 instances:   5
+  Class: sky130_fd_sc_hd__o21ai_2 instances:   4
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances:   1
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  31
+  Class: sky130_fd_sc_hd__a21oi_1 instances:   3
+  Class: sky130_fd_sc_hd__a21oi_2 instances:   6
+  Class: sky130_fd_sc_hd__a21oi_4 instances:  38
+  Class: sky130_fd_sc_hd__fill_1 instances:   1
+  Class: sky130_fd_sc_hd__fill_2 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_1 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkinv_16 instances:   1
+  Class: sky130_fd_sc_hd__or2b_4 instances:   5
+  Class: sky130_fd_sc_hd__nor2_1 instances:   9
+  Class: sky130_fd_sc_hd__nor2_2 instances:   9
+  Class: sky130_fd_sc_hd__nor2_4 instances:  18
+  Class: sky130_fd_sc_hd__nor2_8 instances:  22
+Circuit contains 2142 nets.
+Contents of circuit 2:  Circuit: 'top_module_project5'
+Circuit top_module_project5 contains 4094 device instances.
+  Class: sky130_fd_sc_hd__bufinv_16 instances:   1
+  Class: sky130_fd_sc_hd__a31o_1 instances:   1
+  Class: sky130_fd_sc_hd__a31o_4 instances:  20
+  Class: sky130_fd_sc_hd__a21o_1 instances:   1
+  Class: sky130_fd_sc_hd__a21o_2 instances:   4
+  Class: sky130_fd_sc_hd__a21o_4 instances:  19
+  Class: sky130_fd_sc_hd__o32ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkbuf_16 instances:  40
+  Class: sky130_fd_sc_hd__dfxtp_1 instances:   6
+  Class: sky130_fd_sc_hd__dfxtp_2 instances:  10
+  Class: sky130_fd_sc_hd__dfxtp_4 instances: 198
+  Class: sky130_fd_sc_hd__o31ai_2 instances:   3
+  Class: sky130_fd_sc_hd__o31ai_4 instances:   4
+  Class: sky130_fd_sc_hd__or4_4 instances:  12
+  Class: sky130_fd_sc_hd__buf_1 instances:   7
+  Class: sky130_fd_sc_hd__a31oi_4 instances:   2
+  Class: sky130_fd_sc_hd__buf_2 instances:  78
+  Class: sky130_fd_sc_hd__buf_4 instances: 168
+  Class: sky130_fd_sc_hd__buf_6 instances:  67
+  Class: sky130_fd_sc_hd__buf_8 instances:  87
+  Class: sky130_fd_sc_hd__a2bb2o_2 instances:   1
+  Class: sky130_fd_sc_hd__a2bb2o_4 instances:  11
+  Class: sky130_fd_sc_hd__and3b_4 instances:   2
+  Class: sky130_fd_sc_hd__xor2_1 instances:   3
+  Class: sky130_fd_sc_hd__xor2_2 instances:   2
+  Class: sky130_fd_sc_hd__xor2_4 instances:   8
+  Class: sky130_ef_sc_hd__decap_12 instances:   1
+  Class: sky130_fd_sc_hd__dfrtp_4 instances:   3
+  Class: sky130_fd_sc_hd__and4_4 instances:   2
+  Class: sky130_fd_sc_hd__bufinv_8 instances:   2
+  Class: sky130_fd_sc_hd__inv_2 instances:   3
+  Class: sky130_fd_sc_hd__inv_4 instances:   5
+  Class: sky130_fd_sc_hd__inv_6 instances:   8
+  Class: sky130_fd_sc_hd__inv_8 instances:   2
+  Class: sky130_fd_sc_hd__clkbuf_1 instances:   3
+  Class: sky130_fd_sc_hd__clkbuf_2 instances:  23
+  Class: sky130_fd_sc_hd__clkbuf_4 instances:  90
+  Class: sky130_fd_sc_hd__clkbuf_8 instances: 176
+  Class: sky130_fd_sc_hd__or3_1 instances:   1
+  Class: sky130_fd_sc_hd__or3_4 instances:  20
+  Class: sky130_fd_sc_hd__nand3_1 instances:   1
+  Class: sky130_fd_sc_hd__nand3_4 instances:  11
+  Class: sky130_fd_sc_hd__o21ba_1 instances:   2
+  Class: sky130_fd_sc_hd__o21ba_2 instances:   1
+  Class: sky130_fd_sc_hd__o21ba_4 instances:   2
+  Class: sky130_fd_sc_hd__and2b_2 instances:   1
+  Class: sky130_fd_sc_hd__and2b_4 instances:  18
+  Class: sky130_fd_sc_hd__a21boi_1 instances:   1
+  Class: sky130_fd_sc_hd__a21boi_4 instances:   2
+  Class: sky130_fd_sc_hd__buf_12 instances: 161
+  Class: sky130_fd_sc_hd__a21bo_4 instances:   5
+  Class: sky130_fd_sc_hd__clkinv_1 instances:   4
+  Class: sky130_fd_sc_hd__clkinv_4 instances:   7
+  Class: sky130_fd_sc_hd__and3_2 instances:   4
+  Class: sky130_fd_sc_hd__and3_4 instances:  12
+  Class: sky130_fd_sc_hd__decap_3 instances:   1
+  Class: sky130_fd_sc_hd__decap_4 instances:   1
+  Class: sky130_fd_sc_hd__decap_6 instances:   1
+  Class: sky130_fd_sc_hd__decap_8 instances:   1
+  Class: sky130_fd_sc_hd__or2_1 instances:   1
+  Class: sky130_fd_sc_hd__or2_2 instances:   4
+  Class: sky130_fd_sc_hd__or2_4 instances:  41
+  Class: sky130_fd_sc_hd__nand2_1 instances:   3
+  Class: sky130_fd_sc_hd__nand2_2 instances:   3
+  Class: sky130_fd_sc_hd__nand2_4 instances:   8
+  Class: sky130_fd_sc_hd__nand2_8 instances:  39
+  Class: sky130_fd_sc_hd__mux2_1 instances:   7
+  Class: sky130_fd_sc_hd__mux2_2 instances:  27
+  Class: sky130_fd_sc_hd__mux2_4 instances:  78
+  Class: sky130_fd_sc_hd__mux2_8 instances: 246
+  Class: sky130_fd_sc_hd__a211oi_1 instances:   1
+  Class: sky130_fd_sc_hd__and2_4 instances:  16
+  Class: sky130_fd_sc_hd__or4b_4 instances:   4
+  Class: sky130_fd_sc_hd__clkinvlp_4 instances:   2
+  Class: sky130_fd_sc_hd__nor4_1 instances:   1
+  Class: sky130_fd_sc_hd__inv_16 instances:   1
+  Class: sky130_fd_sc_hd__o22a_2 instances:   1
+  Class: sky130_fd_sc_hd__o22a_4 instances:   6
+  Class: sky130_fd_sc_hd__xnor2_1 instances:   1
+  Class: sky130_fd_sc_hd__xnor2_2 instances:   7
+  Class: sky130_fd_sc_hd__xnor2_4 instances:  18
+  Class: sky130_fd_sc_hd__nor3b_1 instances:   1
+  Class: sky130_fd_sc_hd__nor3b_4 instances:   2
+  Class: sky130_fd_sc_hd__o221a_4 instances:  10
+  Class: sky130_fd_sc_hd__o21bai_4 instances:   2
+  Class: sky130_fd_sc_hd__o211a_4 instances:   3
+  Class: sky130_fd_sc_hd__nand2b_4 instances:   1
+  Class: sky130_fd_sc_hd__diode_2 instances: 1949
+  Class: sky130_fd_sc_hd__a311oi_4 instances:   1
+  Class: sky130_fd_sc_hd__a221o_1 instances:   1
+  Class: sky130_fd_sc_hd__a221o_2 instances:   3
+  Class: sky130_fd_sc_hd__a221o_4 instances:  30
+  Class: sky130_fd_sc_hd__a211o_4 instances:   5
+  Class: sky130_fd_sc_hd__or3b_4 instances:   4
+  Class: sky130_fd_sc_hd__dlymetal6s2s_1 instances:   6
+  Class: sky130_fd_sc_hd__nor3_1 instances:   2
+  Class: sky130_fd_sc_hd__nor3_2 instances:   1
+  Class: sky130_fd_sc_hd__or4bb_4 instances:   2
+  Class: sky130_fd_sc_hd__nor3_4 instances:   1
+  Class: sky130_fd_sc_hd__a32o_2 instances:   1
+  Class: sky130_fd_sc_hd__a32o_4 instances:   3
+  Class: sky130_fd_sc_hd__a22o_1 instances:   1
+  Class: sky130_fd_sc_hd__a22o_4 instances:   7
+  Class: sky130_fd_sc_hd__o31a_4 instances:   2
+  Class: sky130_fd_sc_hd__o2bb2a_1 instances:   1
+  Class: sky130_fd_sc_hd__o2bb2a_4 instances:   2
+  Class: sky130_fd_sc_hd__o21a_1 instances:   4
+  Class: sky130_fd_sc_hd__o21a_2 instances:   1
+  Class: sky130_fd_sc_hd__o21a_4 instances:  40
+  Class: sky130_fd_sc_hd__o311a_4 instances:   1
+  Class: sky130_fd_sc_hd__o22ai_4 instances:   2
+  Class: sky130_fd_sc_hd__nor2b_4 instances:   1
+  Class: sky130_fd_sc_hd__a22oi_4 instances:   2
+  Class: sky130_fd_sc_hd__o21ai_1 instances:   5
+  Class: sky130_fd_sc_hd__o21ai_2 instances:   4
+  Class: sky130_fd_sc_hd__tapvpwrvgnd_1 instances:   1
+  Class: sky130_fd_sc_hd__o21ai_4 instances:  31
+  Class: sky130_fd_sc_hd__a21oi_1 instances:   3
+  Class: sky130_fd_sc_hd__a21oi_2 instances:   6
+  Class: sky130_fd_sc_hd__a21oi_4 instances:  38
+  Class: sky130_fd_sc_hd__fill_1 instances:   1
+  Class: sky130_fd_sc_hd__fill_2 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_1 instances:   1
+  Class: sky130_fd_sc_hd__o211ai_4 instances:   1
+  Class: sky130_fd_sc_hd__clkinv_16 instances:   1
+  Class: sky130_fd_sc_hd__or2b_4 instances:   5
+  Class: sky130_fd_sc_hd__nor2_1 instances:   9
+  Class: sky130_fd_sc_hd__nor2_2 instances:   9
+  Class: sky130_fd_sc_hd__nor2_4 instances:  18
+  Class: sky130_fd_sc_hd__nor2_8 instances:  22
+Circuit contains 2142 nets.
+
+Circuit 1 contains 4094 devices, Circuit 2 contains 4094 devices.
+Circuit 1 contains 2142 nets,    Circuit 2 contains 2142 nets.
+
+
+Final result: 
+Circuits match uniquely.
+.
+Logging to file "/openlane/designs/top_module_project5/runs/RUN_2025.05.29_18.32.50/logs/signoff/39-top_module_project5.lef.lvs.log" disabled
+LVS Done.

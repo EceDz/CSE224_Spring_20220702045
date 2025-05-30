@@ -1,0 +1,6 @@
+%Warning-UNUSEDSIGNAL: /openlane/designs/top_module_project5/src/top_module_project5.v:10:16: Signal is not used: 'pc_address'
+                                                                                            : ... note: In instance 'top_module_project5'
+   10 |     wire [2:0] pc_address;
+      |                ^~~~~~~~~~
+                       ... For warning description see https://verilator.org/warn/UNUSEDSIGNAL?v=5.018
+                       ... Use "/* verilator lint_off UNUSEDSIGNAL */" and lint_on around source to disable this message.
