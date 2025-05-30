@@ -1,0 +1,31 @@
+digraph "top_module_project4" {
+label="top_module_project4";
+rankdir="LR";
+remincross=true;
+n1 [ shape=octagon, label="result_alu", color="black", fontcolor="black" ];
+n2 [ shape=octagon, label="inputB_alu", color="black", fontcolor="black" ];
+n3 [ shape=octagon, label="inputA_alu", color="black", fontcolor="black" ];
+n4 [ shape=octagon, label="opcode_alu", color="black", fontcolor="black" ];
+n5 [ shape=octagon, label="RD2_regfile", color="black", fontcolor="black" ];
+n6 [ shape=octagon, label="RD1_regfile", color="black", fontcolor="black" ];
+n7 [ shape=octagon, label="WD3_regfile", color="black", fontcolor="black" ];
+n8 [ shape=octagon, label="A3_regfile", color="black", fontcolor="black" ];
+n9 [ shape=octagon, label="A2_regfile", color="black", fontcolor="black" ];
+n10 [ shape=octagon, label="A1_regfile", color="black", fontcolor="black" ];
+n11 [ shape=octagon, label="WE3_regfile", color="black", fontcolor="black" ];
+n12 [ shape=octagon, label="CLK", color="black", fontcolor="black" ];
+c17 [ shape=record, label="{{<p13> a|<p14> b|<p15> opcode}|ALU_inst\nALU|{<p16> result}}",  ];
+c25 [ shape=record, label="{{<p18> A1|<p19> A2|<p20> A3|<p12> CLK|<p21> WD3|<p22> WE3}|RF\nRegisterFile|{<p23> RD1|<p24> RD2}}",  ];
+c17:p16:e -> n1:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n10:e -> c25:p18:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n11:e -> c25:p22:w [color="black", fontcolor="black", label=""];
+n12:e -> c25:p12:w [color="black", fontcolor="black", label=""];
+n2:e -> c17:p14:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n3:e -> c17:p13:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n4:e -> c17:p15:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+c25:p24:e -> n5:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+c25:p23:e -> n6:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n7:e -> c25:p21:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n8:e -> c25:p20:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+n9:e -> c25:p19:w [color="black", fontcolor="black", style="setlinewidth(3)", label=""];
+}
