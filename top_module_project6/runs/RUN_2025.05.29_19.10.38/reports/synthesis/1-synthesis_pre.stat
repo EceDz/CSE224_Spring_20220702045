@@ -1,0 +1,28 @@
+
+53. Printing statistics.
+
+=== top_module_project6 ===
+
+   Number of wires:               4759
+   Number of wire bits:           5859
+   Number of public wires:          42
+   Number of public wire bits:    1102
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:               5834
+     $_ANDNOT_                     470
+     $_AND_                         42
+     $_DFFE_PN_                      2
+     $_DFFE_PP0P_                    5
+     $_DFFE_PP_                   1024
+     $_MUX_                       2347
+     $_NAND_                        41
+     $_NOR_                         69
+     $_NOT_                       1094
+     $_ORNOT_                      118
+     $_OR_                         412
+     $_SDFF_PN0_                    20
+     $_XNOR_                        35
+     $_XOR_                        155
+

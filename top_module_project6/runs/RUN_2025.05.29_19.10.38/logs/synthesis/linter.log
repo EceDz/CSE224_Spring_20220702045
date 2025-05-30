@@ -1,0 +1,22 @@
+%Warning-EOFNEWLINE: /openlane/designs/top_module_project6/src/alu.v:21:10: Missing newline at end of file (POSIX 3.206).
+                                                                          : ... Suggest add newline.
+   21 | endmodule
+      |          ^
+                     ... For warning description see https://verilator.org/warn/EOFNEWLINE?v=5.018
+                     ... Use "/* verilator lint_off EOFNEWLINE */" and lint_on around source to disable this message.
+%Warning-EOFNEWLINE: /openlane/designs/top_module_project6/src/register_file.v:25:10: Missing newline at end of file (POSIX 3.206).
+                                                                                    : ... Suggest add newline.
+   25 | endmodule
+      |          ^
+%Warning-EOFNEWLINE: /openlane/designs/top_module_project6/src/instruction_decoder.v:72:10: Missing newline at end of file (POSIX 3.206).
+                                                                                          : ... Suggest add newline.
+   72 | endmodule
+      |          ^
+%Warning-EOFNEWLINE: /openlane/designs/top_module_project6/src/top_module_project6.v:103:10: Missing newline at end of file (POSIX 3.206).
+                                                                                           : ... Suggest add newline.
+  103 | endmodule
+      |          ^
+%Warning-UNUSEDSIGNAL: /openlane/designs/top_module_project6/src/top_module_project6.v:15:17: Bits of signal are not used: 'jump_target_addr'[25:5]
+                                                                                            : ... note: In instance 'top_module_project6'
+   15 |     wire [25:0] jump_target_addr;  
+      |                 ^~~~~~~~~~~~~~~~
